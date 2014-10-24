@@ -63,6 +63,35 @@
       <div class="outer">
         <section id="main">
   
+    <article id="post-win7" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2014/10/24/win7/" class="article-date">
+  <time datetime="2014-10-24T00:56:54.000Z" itemprop="datePublished">Oct 24 2014</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>title: win7<br>date: 2014-10-24 08:56:54</p>
+<h2 id="tags:">tags:</h2>
+<p>-@color a0<br>@title 去除系统快捷方式箭头<br>@echo 将要去除系统快捷方式箭头<br>@pause<br>@echo Windows Registry Editor Version 5.00&gt;&gt;1.reg<br>@echo [HKEY_CLASSES_ROOT\lnkfile]&gt;&gt;1.reg<br>@echo “IsShortcut”=-&gt;&gt;1.reg<br>@echo [HKEY_CLASSES_ROOT\piffile]&gt;&gt;1.reg<br>@echo “IsShortcut”=-&gt;&gt;1.reg<br>@echo [HKEY_CLASSES_ROOT\InternetShortcut]&gt;&gt;1.reg<br>@echo “IsShortcut”=-&gt;&gt;1.reg<br>@echo [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\InternetShortcut]&gt;&gt;1.reg<br>@echo “IsShortcut”=-&gt;&gt;1.reg<br>regedit/s 1.reg<br>del 1.reg<br>@echo 5秒钟后将关闭显示桌面进程,请不必惊慌,稍后会重新开启<br>ping localhost -n 5<br>taskkill /f /im Explorer.exe<br>@echo 正在开启显示桌面,系统快捷方式箭头已清除<br>ping localhost -n 8<br>start “explorer.exe” “%windir%\explorer.exe”<br>@pause</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yoursite.com/2014/10/24/win7/" data-id="tlz5009fh2mzqn12" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+  
     <article id="post-taobao-css-load-fail" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/2014/10/24/taobao-css-load-fail/" class="article-date">
@@ -75,7 +104,7 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>很多用户反馈打开淘宝网变成了所谓的手机版，如下图。</p>
+        <p>title: 淘宝打开靠左<br>date:<br>tags:<br>很多用户反馈打开淘宝网变成了所谓的手机版，如下图。</p>
 <p>这个情况的实际并不是什么手机版，而是淘宝网的css样式文件没有被加载的情况，页面展现就变成这样了。</p>
 <p>淘宝的css文件是放在a.tbcdn.cn域名下的，由这个域名来做CDN缓存，而出问题的电脑都是无法访问到a.tbcdn.cn所造成的，原因有几个。</p>
 <ol>
@@ -87,6 +116,7 @@
 </ol>
 <p>解决方法：建议重启路由器或者更换本机IP再尝试。</p>
 <p>基本都是由于以上两种原因引起的，如果有其他情况欢迎留言给我。</p>
+<p><a href="http://www.fixabc.com/browser/taobao_css_lost.html" target="_blank" rel="external">http://www.fixabc.com/browser/taobao_css_lost.html</a></p>
 
       
     </div>
@@ -207,7 +237,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">Archives</h3>
     <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/10/">October 2014</a><span class="archive-list-count">3</span></li></ul>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/10/">October 2014</a><span class="archive-list-count">4</span></li></ul>
     </div>
   </div>
 
@@ -217,6 +247,10 @@
     <h3 class="widget-title">Recents</h3>
     <div class="widget">
       <ul>
+        
+          <li>
+            <a href="/2014/10/24/win7/">(no title)</a>
+          </li>
         
           <li>
             <a href="/2014/10/24/taobao-css-load-fail/">(no title)</a>
