@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生产力 on Waynesway</title>
+    <link>https://Waynesway.github.io/tags/%E7%94%9F%E4%BA%A7%E5%8A%9B/</link>
+    <description>Recent content in 生产力 on Waynesway</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Feb 2026 16:35:00 +0800</lastBuildDate>
+    <atom:link href="https://Waynesway.github.io/tags/%E7%94%9F%E4%BA%A7%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>翻译：别被 AI 代理搞焦虑了，先打好基本功</title>
+      <link>https://Waynesway.github.io/posts/ai-productivity-gap/</link>
+      <pubDate>Wed, 11 Feb 2026 16:35:00 +0800</pubDate>
+      <guid>https://Waynesway.github.io/posts/ai-productivity-gap/</guid>
+      <description>最近我注意到一个现象：很多营销人员感到非常焦虑。这并不是因为他们真的“落后”了，而是因为 AI 的发展速度快得让人感到无法呼吸。&#xA;如果你也处于这种状态，请先深呼吸。&#xA;你现在还不需要担心 OpenClaw、n8n、Make 或者那些复杂的 AI 代理工作流。&#xA;如果你还没有为自己日常重复的营销任务构建出 10 到 12 个自定义 GPTs（或者轻量级代理），那你还没到需要为“编排平台”发愁的阶段。&#xA;一步一步来。&#xA;因为我看到的最大的生产力差距，并不是“没有代理”，而是基本习惯的缺失。&#xA;许多人使用 AI 的方式依然是：&#xA;每天打开一个新的 ChatGPT 窗口。 重复输入相同的背景上下文。 问得虽然是好问题，但从未将它们转化为可复用的系统。 这不叫 AI 战略，这只是把 AI 当成了带搜索栏的工具。&#xA;从小处着手，赢在起跑线： 把最常见的任务转化为可复用的提示词（Reusable Prompts）。 把它们打包成自定义 GPTs（包含背景、语气、约束、示例）。 持续使用它们，直到成为你的肌肉记忆。 只有在那之后：再去连接工作流、自动化和代理。 此外：你可能做得比你想的要好。&#xA;至少有一半的营销人员还没有真正在工作中深度使用 AI。如果你正在实验、学习，并建立了哪怕几个可重复的工作流，你就已经遥遥领先了。&#xA;进步并不来自于追逐每一个新工具，而是来自于把你学到的东西转化为你真正使用的系统。&#xA;原文来自：Steff Peeters (@Steff_Peeters)</description>
+    </item>
+  </channel>
+</rss>
