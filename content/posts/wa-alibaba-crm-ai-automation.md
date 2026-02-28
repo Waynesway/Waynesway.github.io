@@ -5,6 +5,7 @@ draft: false
 summary: "把 WhatsApp、Alibaba 与 CRM 串起来后，我把外贸跟进从“手工搬运”升级成了可执行、可追踪、可复制的自动化流程。"
 tags: ["AI", "CRM", "WhatsApp", "Alibaba", "外贸自动化"]
 categories: ["Automation"]
+cover: "/img/cover-ai-automation.jpg"
 ShowToc: true
 TocOpen: true
 ---
