@@ -6,14 +6,28 @@
     <description>Recent content in 自动化 on Waynesway</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Feb 2026 07:53:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 21:10:00 +0800</lastBuildDate>
     <atom:link href="https://Waynesway.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>百万流量密码：让 OpenClaw 成为你的 TikTok 全自动营销专家</title>
+      <link>https://Waynesway.github.io/posts/openclaw-tiktok-growth/</link>
+      <pubDate>Fri, 13 Feb 2026 21:10:00 +0800</pubDate>
+      <guid>https://Waynesway.github.io/posts/openclaw-tiktok-growth/</guid>
+      <description>想要让你的产品在 TikTok、Instagram Reels 和 YouTube Shorts 上爆火吗？开发者 Jack Friks 分享了他是如何通过给 OpenClaw 注入 2 个核心技能，实现零成本获取 200,000+ 下载量的。&#xA;核心逻辑：OpenClaw + Post Bridge API 账号预热（Warmup）： 不要急着发片。让 OpenClaw 提醒你每天在目标领域刷 15 分钟，模拟真人点赞评论，训练算法。&#xA;病毒式内容研究： 命令 OpenClaw 扫描竞争对手的爆款视频，总结标题规律、视觉挂钩（Hooks）和视频长度。&#xA;黄金文案公式： Jack 透露了一个万能钩子：[其他人] + [冲突/质疑] → 展示 [产品/结果] → 改变想法。&#xA;始终使用 &amp;ldquo;POV:&amp;rdquo; 视角。 标签控制在 4-5 个。 文案中绝对不要提 App 名字，引导用户在评论区问“这是什么工具？” 全平台自动分发： 通过集成 Post Bridge API，OpenClaw 可以一键将视频发布/排期到所有短视频平台。建议 TikTok 保持在草箱，以便手动添加热门 BGM。&#xA;数据驱动迭代： 每发完一贴，OpenClaw 都会在 5 分钟后检查状态。一旦发现爆款，立即开启“2-6 贴/天”的疯狂复刻模式。&#xA;结论： 这不仅是自动化，这是让 AI 像合伙人一样思考你的流量生意。&#xA;Source: https://x.</description>
+    </item>
+    <item>
+      <title>AI 正在“自我进化”：Matt Shumer 深度长文精炼版</title>
+      <link>https://Waynesway.github.io/posts/ai-evolution-shumer/</link>
+      <pubDate>Thu, 12 Feb 2026 20:40:00 +0800</pubDate>
+      <guid>https://Waynesway.github.io/posts/ai-evolution-shumer/</guid>
+      <description>AI 的发展已经告别了“聊天机器人”时代，进入了“自主员工”时代。AI 初创公司创始人 Matt Shumer 发文警告：世界即将发生比 Covid 影响更深远的变革。&#xA;核心要点提炼 AI 开始“自我进化” OpenAI 的最新模型（如 GPT-5.3 Codex）在开发过程中已经能够自我 debug、管理部署和自我诊断。AI 正在帮助构建下一个版本的自己。&#xA;从“工具”到“结果” Matt 提到，他现在只需用口语描述想要什么，AI 就能自动完成成千上万行代码，甚至自主打开 App 进行真人式的点击测试和修改，直到完美才交付。开发者不再需要干预过程，只需等待结果。&#xA;认知缺口带来的危险 大多数人还在用免费版、或者一年多前的眼光看 AI（认为它会胡言乱语）。实际上，顶级 AI 的能力每 4-7 个月就翻一倍。到 2026-2027 年，AI 的智力将超越绝大多数人类。&#xA;白领工作的巨大冲击 法律、金融、医学、会计、咨询等行业，凡是能在屏幕前完成的工作，都面临被 AI 深度替代的可能。Anthropic CEO 预测，未来 1-5 年内，50% 的初创白领岗位可能会消失。&#xA;我们该怎么办？&#xA;尽早介入： 支付 20 美元使用最顶级的模型。 深度集成： 不要把它当搜索工具，把它推入你的实际核心业务（如审阅合同、建立金融模型）。 放弃优越感： 哪怕是资深合伙人也需要每天花一小时与 AI 共同工作。 结语： 如果你能在别人还在观望时，展示出用 AI 将 3 天的工作压缩到 1 小时完成的能力，你就是这个时代最无可替代的人。</description>
+    </item>
     <item>
       <title>拥抱AI时代：从手动脚本到智能代理的跨越</title>
       <link>https://Waynesway.github.io/posts/embracing-ai-era/</link>
       <pubDate>Mon, 09 Feb 2026 07:53:00 +0000</pubDate>
       <guid>https://Waynesway.github.io/posts/embracing-ai-era/</guid>
-      <description>&lt;p&gt;做好拥抱这个AI时代的准备。我现在每天都会多关注与AI相关的信息，尽量不让自己落伍，但有时还是感到力不从心。&lt;/p&gt;&#xA;&lt;p&gt;回想起以前，我们需要自己爬取大量网页、翻看各种教程，甚至还要手动一个一个敲脚本。那个时代已经一去不复返了。现在，我只需要说出我的需求，OpenClaw 就会作为我的智能代理在后台默默工作。那些复杂的代码命令，我们已经不再需要去死记硬背或深度掌握，这种变革速度甚至让我感到一丝“害怕”。&lt;/p&gt;&#xA;&lt;p&gt;举个例子：2017年公司曾购买过一款外贸搜索软件，本质上就是由一些 Python 脚本搭建的工具，功能是自动去 Google、Yahoo 搜索特定关键词并整理到表格里。那时的搜索逻辑和命令都是固定的、死板的。&lt;/p&gt;&#xA;&lt;p&gt;而现在，这一切都进化了。我只需要告诉 OpenClaw 我需要找哪些关键词，还能灵活定制搜索时间、指定参考网站。这些以前需要付费请人定制、开发的工作，现在只需要动动嘴，AI 就能帮我高效完成。&lt;/p&gt;&#xA;&lt;p&gt;AI 时代还有太多未知的领域等着我去探索。&lt;/p&gt;</description>
+      <description>做好拥抱这个AI时代的准备。我现在每天都会多关注与AI相关的信息，尽量不让自己落伍，但有时还是感到力不从心。&#xA;回想起以前，我们需要自己爬取大量网页、翻看各种教程，甚至还要手动一个一个敲脚本。那个时代已经一去不复返了。现在，我只需要说出我的需求，OpenClaw 就会作为我的智能代理在后台默默工作。那些复杂的代码命令，我们已经不再需要去死记硬背或深度掌握，这种变革速度甚至让我感到一丝“害怕”。&#xA;举个例子：2017年公司曾购买过一款外贸搜索软件，本质上就是由一些 Python 脚本搭建的工具，功能是自动去 Google、Yahoo 搜索特定关键词并整理到表格里。那时的搜索逻辑和命令都是固定的、死板的。&#xA;而现在，这一切都进化了。我只需要告诉 OpenClaw 我需要找哪些关键词，还能灵活定制搜索时间、指定参考网站。这些以前需要付费请人定制、开发的工作，现在只需要动动嘴，AI 就能帮我高效完成。&#xA;AI 时代还有太多未知的领域等着我去探索。</description>
     </item>
   </channel>
 </rss>

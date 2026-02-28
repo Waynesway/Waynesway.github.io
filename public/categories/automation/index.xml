@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation on Waynesway</title>
+    <link>https://Waynesway.github.io/categories/automation/</link>
+    <description>Recent content in Automation on Waynesway</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Feb 2026 20:20:00 +0800</lastBuildDate>
+    <atom:link href="https://Waynesway.github.io/categories/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>不再手工录入：我的外贸 AI 三段式自动化流程</title>
+      <link>https://Waynesway.github.io/posts/wa-alibaba-crm-ai-automation/</link>
+      <pubDate>Sat, 28 Feb 2026 20:20:00 +0800</pubDate>
+      <guid>https://Waynesway.github.io/posts/wa-alibaba-crm-ai-automation/</guid>
+      <description>把 WhatsApp、Alibaba 与 CRM 串起来后，我把外贸跟进从“手工搬运”升级成了可执行、可追踪、可复制的自动化流程。</description>
+    </item>
+  </channel>
+</rss>
